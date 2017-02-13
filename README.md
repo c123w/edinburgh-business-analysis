@@ -4,5 +4,6 @@ Short analysis of businesses in Edinburgh using [Companies House data](http://do
 * How many businesses are there in total?
 * What types of business are there?
 * Have the types of business changed over time?
+
 as well as seeing how these aspects compare to Glasgow.
 
